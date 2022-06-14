@@ -1,2 +1,2 @@
 This will contains all the properties of the Microservices, 
-which will help us to create and manage dynamin services.
+which will help us to create and manage dynamin services. Thanks
